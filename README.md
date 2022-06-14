@@ -1,7 +1,7 @@
-# Test webpage for practicing SASS
+# Test webpage for practicing SCSS
 
 ![](/screenshot.png)
 
-- First SASS practice
+- First SCSS practice
 
 - Live [Demo](https://cryptic-deer.github.io/sass-practice/)
